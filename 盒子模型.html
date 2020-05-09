@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>盒子模型</title>
+    <style>
+        .box1{
+            width: 200px;
+            height: 200px;
+            background-color:yellow;
+            border: 10px red solid;
+            border-right:none;
+        }
+
+    </style>
+</head>
+<body>
+<!--
+盒子模型基础
+    内容区（content），元素中的所有的子元素和文本内容都在内容区中排列，
+        内容区的大小有width和height两个属性来设置
+            width：内容区的宽度
+            height：内容区的高度
+
+    边框（border），边框属于盒子边缘，边框大小会影响到整个盒子的大小
+    要设置边框，需要至少设置三个样式
+        border-width：边框的宽度
+        border-color：边框的颜色
+        border-style：边框的样式
+
+    设置边框的最简，一般用border属性设置
+    eg：border：10px，red，solid；
+    三个属性排列没有顺序要求  
+-->
+<div class="box1"></div>
+</body>
+</html>

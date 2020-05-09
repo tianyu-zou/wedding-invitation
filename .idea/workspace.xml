@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="622312de-bebc-4b74-b50b-fe17831b275d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="277" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="webstorm" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XC0QREChb68EWL1yMQFmEbYG5z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.js基础.html">
+    <configuration name="html常用标签.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webstorm/html常用标签.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="js基础.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/webstorm/js基础.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.js基础.html" />
+        <item itemvalue="JavaScript Debug.html常用标签.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",HTML5_OUTLINE_MODE,ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="622312de-bebc-4b74-b50b-fe17831b275d" name="Default Changelist" comment="" />
+      <created>1580534753195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580534753195</updated>
+      <workItem from="1580534756151" duration="994000" />
+      <workItem from="1580535902454" duration="124000" />
+      <workItem from="1580547356648" duration="426000" />
+      <workItem from="1580557239450" duration="527000" />
+      <workItem from="1580611711955" duration="4938000" />
+      <workItem from="1580782862245" duration="3066000" />
+      <workItem from="1580872866927" duration="400000" />
+      <workItem from="1580892500811" duration="2365000" />
+      <workItem from="1581052097156" duration="371000" />
+      <workItem from="1581130177404" duration="6895000" />
+      <workItem from="1581299686243" duration="2501000" />
+      <workItem from="1581385160795" duration="2277000" />
+      <workItem from="1581472278353" duration="1208000" />
+      <workItem from="1581559780773" duration="869000" />
+      <workItem from="1581575616014" duration="1764000" />
+      <workItem from="1581735747197" duration="872000" />
+      <workItem from="1581736700968" duration="958000" />
+      <workItem from="1581826387309" duration="278000" />
+      <workItem from="1581904520244" duration="1270000" />
+      <workItem from="1581927357188" duration="678000" />
+      <workItem from="1581992442189" duration="348000" />
+      <workItem from="1582077957679" duration="990000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="117" key="#Web_Browsers" timestamp="1581736782847">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="117" key="#Web_Browsers/0.0.1440.900@0.0.1440.900" timestamp="1581736782847" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1581910361339">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581910361339" />
+    <state width="1419" height="302" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1581756367550" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1581910361337">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581910361337" />
+    <state width="1419" height="302" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1581756367548" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1581910361336">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581910361336" />
+    <state width="1419" height="302" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1581756367547" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1581910361338">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581910361338" />
+    <state width="1419" height="302" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1581756367549" />
+    <state width="1398" height="245" key="GridCell.Tab.1.bottom" timestamp="1581910361343">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581910361343" />
+    <state width="1419" height="302" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1581756367553" />
+    <state width="1398" height="245" key="GridCell.Tab.1.center" timestamp="1581910361341">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1581910361341" />
+    <state width="1419" height="302" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1581756367552" />
+    <state width="1398" height="245" key="GridCell.Tab.1.left" timestamp="1581910361340">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1581910361340" />
+    <state width="1419" height="302" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1581756367551" />
+    <state width="1398" height="245" key="GridCell.Tab.1.right" timestamp="1581910361341">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1581910361341" />
+    <state width="1419" height="302" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1581756367552" />
+    <state width="1419" height="302" key="GridCell.Tab.2.bottom" timestamp="1581756367557">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="302" key="GridCell.Tab.2.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581737032449" />
+    <state width="1419" height="302" key="GridCell.Tab.2.bottom/0.23.1440.877@0.23.1440.877" timestamp="1581756367557" />
+    <state width="1419" height="302" key="GridCell.Tab.2.center" timestamp="1581756367555">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="302" key="GridCell.Tab.2.center/0.0.1440.900@0.0.1440.900" timestamp="1581737032447" />
+    <state width="1419" height="302" key="GridCell.Tab.2.center/0.23.1440.877@0.23.1440.877" timestamp="1581756367555" />
+    <state width="1419" height="302" key="GridCell.Tab.2.left" timestamp="1581756367554">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="302" key="GridCell.Tab.2.left/0.0.1440.900@0.0.1440.900" timestamp="1581737032446" />
+    <state width="1419" height="302" key="GridCell.Tab.2.left/0.23.1440.877@0.23.1440.877" timestamp="1581756367554" />
+    <state width="1419" height="302" key="GridCell.Tab.2.right" timestamp="1581756367556">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="302" key="GridCell.Tab.2.right/0.0.1440.900@0.0.1440.900" timestamp="1581737032448" />
+    <state width="1419" height="302" key="GridCell.Tab.2.right/0.23.1440.877@0.23.1440.877" timestamp="1581756367556" />
+    <state width="1419" height="302" key="GridCell.Tab.3.bottom" timestamp="1581756367560">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="302" key="GridCell.Tab.3.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581737032451" />
+    <state width="1419" height="302" key="GridCell.Tab.3.bottom/0.23.1440.877@0.23.1440.877" timestamp="1581756367560" />
+    <state width="1419" height="302" key="GridCell.Tab.3.center" timestamp="1581756367558">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="302" key="GridCell.Tab.3.center/0.0.1440.900@0.0.1440.900" timestamp="1581737032450" />
+    <state width="1419" height="302" key="GridCell.Tab.3.center/0.23.1440.877@0.23.1440.877" timestamp="1581756367558" />
+    <state width="1419" height="302" key="GridCell.Tab.3.left" timestamp="1581756367558">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="302" key="GridCell.Tab.3.left/0.0.1440.900@0.0.1440.900" timestamp="1581737032449" />
+    <state width="1419" height="302" key="GridCell.Tab.3.left/0.23.1440.877@0.23.1440.877" timestamp="1581756367558" />
+    <state width="1419" height="302" key="GridCell.Tab.3.right" timestamp="1581756367559">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="302" key="GridCell.Tab.3.right/0.0.1440.900@0.0.1440.900" timestamp="1581737032451" />
+    <state width="1419" height="302" key="GridCell.Tab.3.right/0.23.1440.877@0.23.1440.877" timestamp="1581756367559" />
+    <state x="229" y="100" key="SettingsEditor" timestamp="1580534920394">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="229" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1580534920394" />
+    <state x="270" y="194" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1581736112088">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="270" y="194" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900@0.0.1440.900" timestamp="1581736112088" />
+    <state x="385" y="210" key="run.anything.popup" timestamp="1581736978409">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="210" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1581736978409" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1581736980678">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1581736980678" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/webstorm$js_html.dat" NAME="js基础.html Coverage Results" MODIFIED="1581905137323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

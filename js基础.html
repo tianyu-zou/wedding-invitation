@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JavaScript</title>
+    <script>
+       // alert("你好这是我的第一个");alert弹出警告框
+       // console.log("baibai");在控制台打印
+       // typeof   检查类型
+       //promot 可输入的对话框，用来录入数值
+        var a = prompt("请输入一个大于1的数");
+        var flag = true;
+        for (var i = 2;i<a;i++)
+        {
+            if (a%i==0)
+            {
+                alert("该数不是质数");
+                flag = false;
+            }
+        }
+        if(flag)
+        {
+            alert("该数是质数");
+        }
+
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

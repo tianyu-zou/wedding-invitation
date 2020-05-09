@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>html常用标签</title>
+
+</head>
+<body>
+<h1>一号标签</h1>
+<h2>二号标签</h2>
+<h3>三号标签</h3>
+<h6>fa<br/>dbrdbrs </h6>
+<p></p>
+
+<!--
+1.标题标签
+
+h1-h6
+双标记，块级元素
+
+align   内容水平对齐方式
+默认值  left  居左
+right   居右
+center   居中
+
+
+2.块级元素和行内元素
+
+<h1>         一号标题         </h1>
+元素的开始   元素的内容     元素的结束
+
+块级元素和行内元素的区别：
+1）块级元素独占一行，行内元素在同一行显示
+2）块级元素默认宽度为100%，行内元素由内容撑开
+
+3.段落
+<p></p>
+双标记，块级元素
+
+有align属性
+
+
+4.图片
+img
+
+src  路径  必须属性
+
+相对路径
+同一等级   直接书写
+下一级    /
+上一级   ../
+上两级   ../../
+
+
+绝对路径
+
+
+
+alt   当图片不能正常显示，给予提示
+title   当鼠标悬停，给予提示
+
+width   宽
+height    高
+
+
+html中默认单位为像素   px
+
+5.强制换行
+<br/>
+没有任何属性
+
+6.水平线
+<hr/>
+color:颜色
+size:高
+width:宽
+align：默认居中
+
+7.超链接
+<a><a/>
+行内元素
+
+href  路径
+target  跳转窗口
+_self 默认值 原窗口打开
+_blank 新窗口打开
+
+空链接
+<a href = "#"><a/>
+跳转到网页顶部
+
+描点
+1）点击a跳转到a
+<a href = "#name">点击<a/>
+<a name = "name">跳转到<a/>
+
+8.转义字符
+空格  &nbsp
+<    &lt
+>    &gt
+
+9.<span></span>和<div></div>
+div 没有语义就用来表示一个区块，目前来讲还是用的最多的布局元素
+span 行内元素没有任何语义一般用来在行内选中元素
+
+10.内联框架
+<iframe frameborder="0"></iframe>
+frameborder为0时无边框
+为其他是有边框不能设置边框大小
+
+11.音视频文件
+    使用audio访问标签向网页中传输音频
+        音视频引入时默认情况下不允许用户自己控制播放
+    属性：
+        src：
+        control：控制台标签，是否允许用户控制播放
+        autoplay：自动播放标签，是否自动播放
+        loop：音乐是否循环播放
+            但是一般来讲游览器不会允许自动播放，为了更好的用户体验
+    格式：
+        一般格式：<audio src="" control></audio>
+        为了兼容更多的游览器可以使用source引入更多不同后缀的资源
+        <audio control>
+            <source src="">
+            <embed src="" type="audio/mp3">
+        </audio>
+
+    使用video标签向游览器引入视频和audio引入音频相同
+
+
+-->
+
+<p style="color:red; size: A3;">大家好，我叫邹天宇</p>
+<a href="#box">点击</a>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<div id="box">wo</div>
+<br><br><br><br>
+<iframe src="http://www.baidu.com" frameborder="0" height="600px" width="500px"></iframe>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</body>
+</html>
